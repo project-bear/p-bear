@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>info.bear</groupId>
-	<artifactId>bear</artifactId>
+	<artifactId>p-bear</artifactId>
 	<version>2.1.0</version>
 	<packaging>pom</packaging>
 
@@ -45,8 +45,8 @@
 	</properties>
 
 	<modules>
-		<module>bear-commons</module>
-		<module>bear-jdbc-template</module>
+		<module>p-bear-commons</module>
+		<module>p-bear-jdbc-template</module>
 	</modules>
 
 	<!-- 

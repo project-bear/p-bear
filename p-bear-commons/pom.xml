@@ -5,12 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>info.bear</groupId>
-		<artifactId>bear</artifactId>
+		<artifactId>p-bear</artifactId>
 		<version>2.1.0</version>
 	</parent>
 
-	<artifactId>bear-commons</artifactId>
-	<packaging>jar</packaging>
+	<artifactId>p-bear-commons</artifactId>
 
 	<dependencies>
 		<dependency>
